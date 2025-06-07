@@ -24,6 +24,9 @@
   <a href="https://substack.com/@shubham7041?utm_source=user-menu" target="_blank">
     <img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack" alt="Substack"/>
   </a>
+  <a href="https://medium.com/@singhshubhamk287" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium" alt="Medium"/>
+  </a>
 </p>
 
 ---
