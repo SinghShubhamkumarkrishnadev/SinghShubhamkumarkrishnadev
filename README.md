@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi there! I'm <strong>Shubham Singh</strong></h1>
 
 <p align="center">
-  🚀 <strong>Backend Developer | Java Enthusiast | Spring Boot | Microservices | DevOps Learner</strong>
+  🚀 <strong>Machine Learning Enthusiast | Python Developer | Data Analysis | ML Fundamentals</strong>
 </p>
 
 ---
@@ -35,36 +35,35 @@
 
 - 🎓 Final Year B.E. CSE Student at **Government Engineering College, Patan (GTU)** (2022–2026)
 - 🏆 **9.04 SPI** (A+ Grade) in 5th Semester
-- 💻 I build **robust RESTful APIs**, **microservice architectures**, and explore **Java backend technologies**
-- 🌱 Currently learning **Kubernetes**, **Jenkins**, and **Spring Cloud** for enterprise-grade development
-- 🎯 Interested in **System Design**, **Distributed Systems**, and **Clean Code Practices**
+- 💻 I work on **machine learning models**, **data preprocessing pipelines**, and **Python-based applications**
+- 🌱 Currently strengthening skills in **Machine Learning algorithms**, **model evaluation**, and **data analysis**
+- 🎯 Interested in **Predictive Modeling**, **Data-Driven Problem Solving**, and **Core Computer Science Concepts**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java (J2SE, J2EE)
-- **Core Java Skills:** OOP, Collections Framework, Exception Handling, Multithreading, Streams API
-- **Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Cloud
-- **Microservices:** REST APIs, Eureka, API Gateway, Config Server
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Build Tools:** Maven, Gradle
-- **Testing:** JUnit 5, Mockito
-- **DevOps & Cloud:** Docker, Kubernetes *(Learning)*, Jenkins *(Learning)*, CI/CD
-- **Tools & Utilities:** Git, GitHub, Postman, Swagger, Lombok
-- **Other Skills:** RESTful API Design, Layered Architecture, SOLID Principles
+- **Languages:** Python, Java, JavaScript, SQL
+- **Core Python Skills:** Data Handling, Data Cleaning, Feature Engineering, Model Training
+- **Machine Learning:** Linear Regression, Supervised Learning, Model Evaluation
+- **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, Flask
+- **Data Processing:** Data Gathering, Preprocessing, Feature Preparation
+- **Databases:** MySQL, SQL
+- **Tools & Utilities:** Git, GitHub, Postman
+- **CS Fundamentals:** Data Structures and Algorithms, Operating Systems, Computer Networks
+- **Other Skills:** Analytical Thinking, Problem Solving, RESTful API Integration
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 [Movie Torch API](https://movie-torch-api.onrender.com/api/movies/top_rated)
-> A **Spring Boot** microservice for serving movie-related data — top-rated, trending, reviews, etc.
+### 🏠 House Rent & Property Price Prediction
+> A **machine learning project** focused on predicting house rent and property prices using historical data.
 
-- ⚙️ Backend: Spring Boot, REST, Docker, Render
-- 🌐 Frontend App: [Movie Dekho with Shubham](https://movie-dekho-with-shubham.vercel.app/)
-- 📦 Architecture: Layered Structure (Controller-Service-Repository)
-- 🔍 Features: Search, Pagination, Filtering, API Documentation via Swagger
+- ⚙️ Tech Stack: Python, Scikit-learn, Pandas
+- 📊 Process: Data collection, cleaning, preprocessing, and feature engineering
+- 🧠 Model: Linear Regression for price prediction
+- 🎯 Outcome: Generated accurate predictions based on location, size, and property features
 
 ---
 
@@ -86,12 +85,12 @@
 
 ## 🌱 Currently Exploring
 
-- ✅ **Kubernetes** – for container orchestration
-- ✅ **Jenkins** – for CI/CD pipeline automation
-- ✅ **Spring Cloud** – for scalable microservice architecture
+- ✅ **Advanced Machine Learning Algorithms**
+- ✅ **Model Evaluation & Performance Optimization**
+- ✅ **Python-based Data Analysis Techniques**
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> _“Without data, you’re just another person with an opinion.” – W. Edwards Deming_
 
 ---
